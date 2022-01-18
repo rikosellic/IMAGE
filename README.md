@@ -1,1 +1,1 @@
-Github图床for Markdown.
+Github图床 for Markdown.
